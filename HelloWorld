@@ -1,0 +1,12 @@
+$ mkdir ~/Hello-World
+# Creates a new directory
+
+$cd ~/Hello-World
+# Changes the current working directory 
+
+$ git init
+# sets up the necessary  GIT file
+
+$ touch HelloWorld
+
+## This is a markdown file
