@@ -8,5 +8,4 @@ $ git init
 # Sets up the necessary Git files
 
 $ touch HelloWorld
-# Creates a file called "README" in your Hello-World directory
-
+# Creates a file called "HelloWorld" 
